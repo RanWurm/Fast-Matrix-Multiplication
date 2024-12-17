@@ -2,6 +2,8 @@
 Fast Matrix Multiplication using Karatsuba's matrix multiplication 
 # Fast Marching Method (FMM) Implementation
 
+![image](https://github.com/user-attachments/assets/1247b763-ad4a-44ce-b339-bb8729ebe497)
+
 ## Overview
 This repository contains a C implementation of the Fast Marching Method (FMM), a numerical technique used primarily for solving the Eikonal equation and other related problems in computational geometry and physics. The FMM is used to model wave propagation and is particularly well-suited for problems involving moving interfaces.
 
